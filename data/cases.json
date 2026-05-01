@@ -1,0 +1,2513 @@
+{
+    "labels":  [
+                   "骨髄芽球 type I",
+                   "骨髄芽球 type II",
+                   "前骨髄球",
+                   "骨髄球",
+                   "後骨髄球",
+                   "桿状核球",
+                   "分葉核球",
+                   "前赤芽球",
+                   "好塩基性赤芽球",
+                   "多染性赤芽球",
+                   "正染性赤芽球"
+               ],
+    "cases":  [
+                  {
+                      "id":  "karyukyu-cells-png-1-1-骨髄芽球-typeIblast",
+                      "group":  "顆粒球系",
+                      "title":  "骨髄芽球 type I の判定",
+                      "image":  "./question_images/karyukyu_cells_png/1-1_骨髄芽球_typeIblast.png",
+                      "answer":  "骨髄芽球 type I",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「骨髄芽球 type I」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "骨髄芽球 type I として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-1-10-骨髄芽球-typeIblast",
+                      "group":  "顆粒球系",
+                      "title":  "骨髄芽球 type I の判定",
+                      "image":  "./question_images/karyukyu_cells_png/1-10_骨髄芽球_typeIblast.png",
+                      "answer":  "骨髄芽球 type I",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「骨髄芽球 type I」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "骨髄芽球 type I として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-1-11-骨髄芽球-typeIblast",
+                      "group":  "顆粒球系",
+                      "title":  "骨髄芽球 type I の判定",
+                      "image":  "./question_images/karyukyu_cells_png/1-11_骨髄芽球_typeIblast.png",
+                      "answer":  "骨髄芽球 type I",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「骨髄芽球 type I」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "骨髄芽球 type I として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-1-12-骨髄芽球-typeIblast",
+                      "group":  "顆粒球系",
+                      "title":  "骨髄芽球 type I の判定",
+                      "image":  "./question_images/karyukyu_cells_png/1-12_骨髄芽球_typeIblast.png",
+                      "answer":  "骨髄芽球 type I",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「骨髄芽球 type I」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "骨髄芽球 type I として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-1-2-骨髄芽球-typeIblast",
+                      "group":  "顆粒球系",
+                      "title":  "骨髄芽球 type I の判定",
+                      "image":  "./question_images/karyukyu_cells_png/1-2_骨髄芽球_typeIblast.png",
+                      "answer":  "骨髄芽球 type I",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「骨髄芽球 type I」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "骨髄芽球 type I として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-1-3-骨髄芽球-typeIblast",
+                      "group":  "顆粒球系",
+                      "title":  "骨髄芽球 type I の判定",
+                      "image":  "./question_images/karyukyu_cells_png/1-3_骨髄芽球_typeIblast.png",
+                      "answer":  "骨髄芽球 type I",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「骨髄芽球 type I」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "骨髄芽球 type I として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-1-4-骨髄芽球-typeIblast",
+                      "group":  "顆粒球系",
+                      "title":  "骨髄芽球 type I の判定",
+                      "image":  "./question_images/karyukyu_cells_png/1-4_骨髄芽球_typeIblast.png",
+                      "answer":  "骨髄芽球 type I",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「骨髄芽球 type I」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "骨髄芽球 type I として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-1-5-骨髄芽球-typeIblast",
+                      "group":  "顆粒球系",
+                      "title":  "骨髄芽球 type I の判定",
+                      "image":  "./question_images/karyukyu_cells_png/1-5_骨髄芽球_typeIblast.png",
+                      "answer":  "骨髄芽球 type I",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「骨髄芽球 type I」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "骨髄芽球 type I として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-1-6-骨髄芽球-typeIblast",
+                      "group":  "顆粒球系",
+                      "title":  "骨髄芽球 type I の判定",
+                      "image":  "./question_images/karyukyu_cells_png/1-6_骨髄芽球_typeIblast.png",
+                      "answer":  "骨髄芽球 type I",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「骨髄芽球 type I」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "骨髄芽球 type I として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-1-7-骨髄芽球-typeIblast",
+                      "group":  "顆粒球系",
+                      "title":  "骨髄芽球 type I の判定",
+                      "image":  "./question_images/karyukyu_cells_png/1-7_骨髄芽球_typeIblast.png",
+                      "answer":  "骨髄芽球 type I",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「骨髄芽球 type I」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "骨髄芽球 type I として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-1-8-骨髄芽球-typeIblast",
+                      "group":  "顆粒球系",
+                      "title":  "骨髄芽球 type I の判定",
+                      "image":  "./question_images/karyukyu_cells_png/1-8_骨髄芽球_typeIblast.png",
+                      "answer":  "骨髄芽球 type I",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「骨髄芽球 type I」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "骨髄芽球 type I として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-1-9-骨髄芽球-typeIblast",
+                      "group":  "顆粒球系",
+                      "title":  "骨髄芽球 type I の判定",
+                      "image":  "./question_images/karyukyu_cells_png/1-9_骨髄芽球_typeIblast.png",
+                      "answer":  "骨髄芽球 type I",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「骨髄芽球 type I」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "骨髄芽球 type I として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-2-1-骨髄芽球-typeIIblast",
+                      "group":  "顆粒球系",
+                      "title":  "骨髄芽球 type II の判定",
+                      "image":  "./question_images/karyukyu_cells_png/2-1_骨髄芽球_typeIIblast.png",
+                      "answer":  "骨髄芽球 type II",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「骨髄芽球 type II」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "骨髄芽球 type II として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-2-10-前骨髄球",
+                      "group":  "顆粒球系",
+                      "title":  "前骨髄球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/2-10_前骨髄球.png",
+                      "answer":  "前骨髄球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「前骨髄球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "前骨髄球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-2-11-前骨髄球",
+                      "group":  "顆粒球系",
+                      "title":  "前骨髄球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/2-11_前骨髄球.png",
+                      "answer":  "前骨髄球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「前骨髄球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "前骨髄球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-2-12-前骨髄球",
+                      "group":  "顆粒球系",
+                      "title":  "前骨髄球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/2-12_前骨髄球.png",
+                      "answer":  "前骨髄球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「前骨髄球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "前骨髄球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-2-2-骨髄芽球-typeIIblast",
+                      "group":  "顆粒球系",
+                      "title":  "骨髄芽球 type II の判定",
+                      "image":  "./question_images/karyukyu_cells_png/2-2_骨髄芽球_typeIIblast.png",
+                      "answer":  "骨髄芽球 type II",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「骨髄芽球 type II」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "骨髄芽球 type II として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-2-3-骨髄芽球-typeIIblast",
+                      "group":  "顆粒球系",
+                      "title":  "骨髄芽球 type II の判定",
+                      "image":  "./question_images/karyukyu_cells_png/2-3_骨髄芽球_typeIIblast.png",
+                      "answer":  "骨髄芽球 type II",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「骨髄芽球 type II」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "骨髄芽球 type II として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-2-4-前骨髄球",
+                      "group":  "顆粒球系",
+                      "title":  "前骨髄球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/2-4_前骨髄球.png",
+                      "answer":  "前骨髄球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「前骨髄球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "前骨髄球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-2-5-前骨髄球",
+                      "group":  "顆粒球系",
+                      "title":  "前骨髄球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/2-5_前骨髄球.png",
+                      "answer":  "前骨髄球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「前骨髄球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "前骨髄球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-2-6-前骨髄球",
+                      "group":  "顆粒球系",
+                      "title":  "前骨髄球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/2-6_前骨髄球.png",
+                      "answer":  "前骨髄球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「前骨髄球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "前骨髄球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-2-7-前骨髄球",
+                      "group":  "顆粒球系",
+                      "title":  "前骨髄球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/2-7_前骨髄球.png",
+                      "answer":  "前骨髄球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「前骨髄球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "前骨髄球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-2-8-前骨髄球",
+                      "group":  "顆粒球系",
+                      "title":  "前骨髄球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/2-8_前骨髄球.png",
+                      "answer":  "前骨髄球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「前骨髄球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "前骨髄球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-2-9-前骨髄球",
+                      "group":  "顆粒球系",
+                      "title":  "前骨髄球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/2-9_前骨髄球.png",
+                      "answer":  "前骨髄球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「前骨髄球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "前骨髄球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-3-1-前骨髄球",
+                      "group":  "顆粒球系",
+                      "title":  "前骨髄球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/3-1_前骨髄球.png",
+                      "answer":  "前骨髄球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「前骨髄球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "前骨髄球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-3-10-骨髄球",
+                      "group":  "顆粒球系",
+                      "title":  "骨髄球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/3-10_骨髄球.png",
+                      "answer":  "骨髄球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「骨髄球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "骨髄球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-3-11-骨髄球",
+                      "group":  "顆粒球系",
+                      "title":  "骨髄球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/3-11_骨髄球.png",
+                      "answer":  "骨髄球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「骨髄球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "骨髄球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-3-12-骨髄球",
+                      "group":  "顆粒球系",
+                      "title":  "骨髄球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/3-12_骨髄球.png",
+                      "answer":  "骨髄球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「骨髄球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "骨髄球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-3-2-前骨髄球",
+                      "group":  "顆粒球系",
+                      "title":  "前骨髄球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/3-2_前骨髄球.png",
+                      "answer":  "前骨髄球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「前骨髄球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "前骨髄球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-3-3-前骨髄球",
+                      "group":  "顆粒球系",
+                      "title":  "前骨髄球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/3-3_前骨髄球.png",
+                      "answer":  "前骨髄球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「前骨髄球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "前骨髄球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-3-4-前骨髄球",
+                      "group":  "顆粒球系",
+                      "title":  "前骨髄球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/3-4_前骨髄球.png",
+                      "answer":  "前骨髄球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「前骨髄球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "前骨髄球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-3-5-骨髄球",
+                      "group":  "顆粒球系",
+                      "title":  "骨髄球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/3-5_骨髄球.png",
+                      "answer":  "骨髄球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「骨髄球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "骨髄球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-3-6-骨髄球",
+                      "group":  "顆粒球系",
+                      "title":  "骨髄球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/3-6_骨髄球.png",
+                      "answer":  "骨髄球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「骨髄球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "骨髄球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-3-7-骨髄球",
+                      "group":  "顆粒球系",
+                      "title":  "骨髄球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/3-7_骨髄球.png",
+                      "answer":  "骨髄球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「骨髄球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "骨髄球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-3-8-骨髄球",
+                      "group":  "顆粒球系",
+                      "title":  "骨髄球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/3-8_骨髄球.png",
+                      "answer":  "骨髄球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「骨髄球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "骨髄球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-3-9-骨髄球",
+                      "group":  "顆粒球系",
+                      "title":  "骨髄球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/3-9_骨髄球.png",
+                      "answer":  "骨髄球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「骨髄球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "骨髄球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-4-1-骨髄球",
+                      "group":  "顆粒球系",
+                      "title":  "骨髄球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/4-1_骨髄球.png",
+                      "answer":  "骨髄球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「骨髄球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "骨髄球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-4-10-後骨髄球",
+                      "group":  "顆粒球系",
+                      "title":  "後骨髄球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/4-10_後骨髄球.png",
+                      "answer":  "後骨髄球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「後骨髄球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "後骨髄球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-4-11-後骨髄球",
+                      "group":  "顆粒球系",
+                      "title":  "後骨髄球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/4-11_後骨髄球.png",
+                      "answer":  "後骨髄球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「後骨髄球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "後骨髄球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-4-12-後骨髄球",
+                      "group":  "顆粒球系",
+                      "title":  "後骨髄球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/4-12_後骨髄球.png",
+                      "answer":  "後骨髄球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「後骨髄球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "後骨髄球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-4-2-骨髄球",
+                      "group":  "顆粒球系",
+                      "title":  "骨髄球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/4-2_骨髄球.png",
+                      "answer":  "骨髄球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「骨髄球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "骨髄球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-4-3-骨髄球",
+                      "group":  "顆粒球系",
+                      "title":  "骨髄球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/4-3_骨髄球.png",
+                      "answer":  "骨髄球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「骨髄球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "骨髄球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-4-4-骨髄球",
+                      "group":  "顆粒球系",
+                      "title":  "骨髄球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/4-4_骨髄球.png",
+                      "answer":  "骨髄球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「骨髄球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "骨髄球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-4-5-骨髄球",
+                      "group":  "顆粒球系",
+                      "title":  "骨髄球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/4-5_骨髄球.png",
+                      "answer":  "骨髄球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「骨髄球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "骨髄球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-4-6-後骨髄球",
+                      "group":  "顆粒球系",
+                      "title":  "後骨髄球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/4-6_後骨髄球.png",
+                      "answer":  "後骨髄球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「後骨髄球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "後骨髄球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-4-7-後骨髄球",
+                      "group":  "顆粒球系",
+                      "title":  "後骨髄球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/4-7_後骨髄球.png",
+                      "answer":  "後骨髄球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「後骨髄球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "後骨髄球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-4-8-後骨髄球",
+                      "group":  "顆粒球系",
+                      "title":  "後骨髄球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/4-8_後骨髄球.png",
+                      "answer":  "後骨髄球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「後骨髄球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "後骨髄球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-4-9-後骨髄球",
+                      "group":  "顆粒球系",
+                      "title":  "後骨髄球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/4-9_後骨髄球.png",
+                      "answer":  "後骨髄球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「後骨髄球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "後骨髄球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-5-1-後骨髄球",
+                      "group":  "顆粒球系",
+                      "title":  "後骨髄球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/5-1_後骨髄球.png",
+                      "answer":  "後骨髄球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「後骨髄球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "後骨髄球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-5-10-桿状核球",
+                      "group":  "顆粒球系",
+                      "title":  "桿状核球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/5-10_桿状核球.png",
+                      "answer":  "桿状核球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「桿状核球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "桿状核球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-5-11-桿状核球",
+                      "group":  "顆粒球系",
+                      "title":  "桿状核球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/5-11_桿状核球.png",
+                      "answer":  "桿状核球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「桿状核球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "桿状核球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-5-12-桿状核球",
+                      "group":  "顆粒球系",
+                      "title":  "桿状核球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/5-12_桿状核球.png",
+                      "answer":  "桿状核球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「桿状核球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "桿状核球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-5-2-後骨髄球",
+                      "group":  "顆粒球系",
+                      "title":  "後骨髄球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/5-2_後骨髄球.png",
+                      "answer":  "後骨髄球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「後骨髄球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "後骨髄球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-5-3-後骨髄球",
+                      "group":  "顆粒球系",
+                      "title":  "後骨髄球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/5-3_後骨髄球.png",
+                      "answer":  "後骨髄球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「後骨髄球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "後骨髄球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-5-4-後骨髄球",
+                      "group":  "顆粒球系",
+                      "title":  "後骨髄球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/5-4_後骨髄球.png",
+                      "answer":  "後骨髄球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「後骨髄球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "後骨髄球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-5-5-後骨髄球",
+                      "group":  "顆粒球系",
+                      "title":  "後骨髄球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/5-5_後骨髄球.png",
+                      "answer":  "後骨髄球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「後骨髄球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "後骨髄球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-5-6-後骨髄球",
+                      "group":  "顆粒球系",
+                      "title":  "後骨髄球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/5-6_後骨髄球.png",
+                      "answer":  "後骨髄球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「後骨髄球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "後骨髄球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-5-7-後骨髄球",
+                      "group":  "顆粒球系",
+                      "title":  "後骨髄球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/5-7_後骨髄球.png",
+                      "answer":  "後骨髄球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「後骨髄球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "後骨髄球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-5-8-桿状核球",
+                      "group":  "顆粒球系",
+                      "title":  "桿状核球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/5-8_桿状核球.png",
+                      "answer":  "桿状核球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「桿状核球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "桿状核球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-5-9-桿状核球",
+                      "group":  "顆粒球系",
+                      "title":  "桿状核球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/5-9_桿状核球.png",
+                      "answer":  "桿状核球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「桿状核球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "桿状核球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-6-1-桿状核球",
+                      "group":  "顆粒球系",
+                      "title":  "桿状核球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/6-1_桿状核球.png",
+                      "answer":  "桿状核球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「桿状核球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "桿状核球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-6-10-分葉核球",
+                      "group":  "顆粒球系",
+                      "title":  "分葉核球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/6-10_分葉核球.png",
+                      "answer":  "分葉核球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「分葉核球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "分葉核球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-6-11-分葉核球",
+                      "group":  "顆粒球系",
+                      "title":  "分葉核球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/6-11_分葉核球.png",
+                      "answer":  "分葉核球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「分葉核球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "分葉核球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-6-12-分葉核球",
+                      "group":  "顆粒球系",
+                      "title":  "分葉核球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/6-12_分葉核球.png",
+                      "answer":  "分葉核球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「分葉核球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "分葉核球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-6-2-桿状核球",
+                      "group":  "顆粒球系",
+                      "title":  "桿状核球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/6-2_桿状核球.png",
+                      "answer":  "桿状核球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「桿状核球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "桿状核球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-6-3-桿状核球",
+                      "group":  "顆粒球系",
+                      "title":  "桿状核球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/6-3_桿状核球.png",
+                      "answer":  "桿状核球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「桿状核球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "桿状核球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-6-4-桿状核球",
+                      "group":  "顆粒球系",
+                      "title":  "桿状核球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/6-4_桿状核球.png",
+                      "answer":  "桿状核球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「桿状核球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "桿状核球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-6-5-桿状核球",
+                      "group":  "顆粒球系",
+                      "title":  "桿状核球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/6-5_桿状核球.png",
+                      "answer":  "桿状核球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「桿状核球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "桿状核球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-6-6-桿状核球",
+                      "group":  "顆粒球系",
+                      "title":  "桿状核球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/6-6_桿状核球.png",
+                      "answer":  "桿状核球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「桿状核球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "桿状核球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-6-7-桿状核球",
+                      "group":  "顆粒球系",
+                      "title":  "桿状核球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/6-7_桿状核球.png",
+                      "answer":  "桿状核球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「桿状核球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "桿状核球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-6-8-分葉核球",
+                      "group":  "顆粒球系",
+                      "title":  "分葉核球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/6-8_分葉核球.png",
+                      "answer":  "分葉核球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「分葉核球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "分葉核球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-6-9-分葉核球",
+                      "group":  "顆粒球系",
+                      "title":  "分葉核球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/6-9_分葉核球.png",
+                      "answer":  "分葉核球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「分葉核球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "分葉核球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-7-1-分葉核球",
+                      "group":  "顆粒球系",
+                      "title":  "分葉核球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/7-1_分葉核球.png",
+                      "answer":  "分葉核球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「分葉核球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "分葉核球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-7-10-分葉核球",
+                      "group":  "顆粒球系",
+                      "title":  "分葉核球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/7-10_分葉核球.png",
+                      "answer":  "分葉核球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「分葉核球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "分葉核球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-7-11-分葉核球",
+                      "group":  "顆粒球系",
+                      "title":  "分葉核球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/7-11_分葉核球.png",
+                      "answer":  "分葉核球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「分葉核球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "分葉核球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-7-12-分葉核球",
+                      "group":  "顆粒球系",
+                      "title":  "分葉核球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/7-12_分葉核球.png",
+                      "answer":  "分葉核球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「分葉核球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "分葉核球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-7-2-分葉核球",
+                      "group":  "顆粒球系",
+                      "title":  "分葉核球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/7-2_分葉核球.png",
+                      "answer":  "分葉核球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「分葉核球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "分葉核球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-7-3-分葉核球",
+                      "group":  "顆粒球系",
+                      "title":  "分葉核球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/7-3_分葉核球.png",
+                      "answer":  "分葉核球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「分葉核球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "分葉核球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-7-4-分葉核球",
+                      "group":  "顆粒球系",
+                      "title":  "分葉核球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/7-4_分葉核球.png",
+                      "answer":  "分葉核球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「分葉核球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "分葉核球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-7-5-分葉核球",
+                      "group":  "顆粒球系",
+                      "title":  "分葉核球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/7-5_分葉核球.png",
+                      "answer":  "分葉核球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「分葉核球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "分葉核球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-7-6-分葉核球",
+                      "group":  "顆粒球系",
+                      "title":  "分葉核球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/7-6_分葉核球.png",
+                      "answer":  "分葉核球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「分葉核球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "分葉核球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-7-7-分葉核球",
+                      "group":  "顆粒球系",
+                      "title":  "分葉核球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/7-7_分葉核球.png",
+                      "answer":  "分葉核球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「分葉核球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "分葉核球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-7-8-分葉核球",
+                      "group":  "顆粒球系",
+                      "title":  "分葉核球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/7-8_分葉核球.png",
+                      "answer":  "分葉核球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「分葉核球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "分葉核球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "karyukyu-cells-png-7-9-分葉核球",
+                      "group":  "顆粒球系",
+                      "title":  "分葉核球 の判定",
+                      "image":  "./question_images/karyukyu_cells_png/7-9_分葉核球.png",
+                      "answer":  "分葉核球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「分葉核球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "分葉核球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-1-1-前赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "前赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/1-1_前赤芽球.png",
+                      "answer":  "前赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「前赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "前赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-1-10-前赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "前赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/1-10_前赤芽球.png",
+                      "answer":  "前赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「前赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "前赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-1-11-前赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "前赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/1-11_前赤芽球.png",
+                      "answer":  "前赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「前赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "前赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-1-12-前赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "前赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/1-12_前赤芽球.png",
+                      "answer":  "前赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「前赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "前赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-1-2-前赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "前赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/1-2_前赤芽球.png",
+                      "answer":  "前赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「前赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "前赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-1-3-前赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "前赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/1-3_前赤芽球.png",
+                      "answer":  "前赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「前赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "前赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-1-4-前赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "前赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/1-4_前赤芽球.png",
+                      "answer":  "前赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「前赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "前赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-1-5-前赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "前赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/1-5_前赤芽球.png",
+                      "answer":  "前赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「前赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "前赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-1-6-前赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "前赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/1-6_前赤芽球.png",
+                      "answer":  "前赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「前赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "前赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-1-7-前赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "前赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/1-7_前赤芽球.png",
+                      "answer":  "前赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「前赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "前赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-1-8-前赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "前赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/1-8_前赤芽球.png",
+                      "answer":  "前赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「前赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "前赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-1-9-前赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "前赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/1-9_前赤芽球.png",
+                      "answer":  "前赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「前赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "前赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-2-1-前赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "前赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/2-1_前赤芽球.png",
+                      "answer":  "前赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「前赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "前赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-2-10-好塩基性赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "好塩基性赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/2-10_好塩基性赤芽球.png",
+                      "answer":  "好塩基性赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「好塩基性赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "好塩基性赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-2-11-好塩基性赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "好塩基性赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/2-11_好塩基性赤芽球.png",
+                      "answer":  "好塩基性赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「好塩基性赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "好塩基性赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-2-12-好塩基性赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "好塩基性赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/2-12_好塩基性赤芽球.png",
+                      "answer":  "好塩基性赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「好塩基性赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "好塩基性赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-2-2-前赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "前赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/2-2_前赤芽球.png",
+                      "answer":  "前赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「前赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "前赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-2-3-前赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "前赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/2-3_前赤芽球.png",
+                      "answer":  "前赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「前赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "前赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-2-4-前赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "前赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/2-4_前赤芽球.png",
+                      "answer":  "前赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「前赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "前赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-2-5-好塩基性赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "好塩基性赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/2-5_好塩基性赤芽球.png",
+                      "answer":  "好塩基性赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「好塩基性赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "好塩基性赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-2-6-好塩基性赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "好塩基性赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/2-6_好塩基性赤芽球.png",
+                      "answer":  "好塩基性赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「好塩基性赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "好塩基性赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-2-7-好塩基性赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "好塩基性赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/2-7_好塩基性赤芽球.png",
+                      "answer":  "好塩基性赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「好塩基性赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "好塩基性赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-2-8-好塩基性赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "好塩基性赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/2-8_好塩基性赤芽球.png",
+                      "answer":  "好塩基性赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「好塩基性赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "好塩基性赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-2-9-好塩基性赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "好塩基性赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/2-9_好塩基性赤芽球.png",
+                      "answer":  "好塩基性赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「好塩基性赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "好塩基性赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-3-1-好塩基性赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "好塩基性赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/3-1_好塩基性赤芽球.png",
+                      "answer":  "好塩基性赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「好塩基性赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "好塩基性赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-3-10-多染性赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "多染性赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/3-10_多染性赤芽球.png",
+                      "answer":  "多染性赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「多染性赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "多染性赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-3-11-多染性赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "多染性赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/3-11_多染性赤芽球.png",
+                      "answer":  "多染性赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「多染性赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "多染性赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-3-12-多染性赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "多染性赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/3-12_多染性赤芽球.png",
+                      "answer":  "多染性赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「多染性赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "多染性赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-3-2-好塩基性赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "好塩基性赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/3-2_好塩基性赤芽球.png",
+                      "answer":  "好塩基性赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「好塩基性赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "好塩基性赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-3-3-好塩基性赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "好塩基性赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/3-3_好塩基性赤芽球.png",
+                      "answer":  "好塩基性赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「好塩基性赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "好塩基性赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-3-4-好塩基性赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "好塩基性赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/3-4_好塩基性赤芽球.png",
+                      "answer":  "好塩基性赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「好塩基性赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "好塩基性赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-3-5-好塩基性赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "好塩基性赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/3-5_好塩基性赤芽球.png",
+                      "answer":  "好塩基性赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「好塩基性赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "好塩基性赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-3-6-多染性赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "多染性赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/3-6_多染性赤芽球.png",
+                      "answer":  "多染性赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「多染性赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "多染性赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-3-7-多染性赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "多染性赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/3-7_多染性赤芽球.png",
+                      "answer":  "多染性赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「多染性赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "多染性赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-3-8-多染性赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "多染性赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/3-8_多染性赤芽球.png",
+                      "answer":  "多染性赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「多染性赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "多染性赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-3-9-多染性赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "多染性赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/3-9_多染性赤芽球.png",
+                      "answer":  "多染性赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「多染性赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "多染性赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-4-1-多染性赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "多染性赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/4-1_多染性赤芽球.png",
+                      "answer":  "多染性赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「多染性赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "多染性赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-4-10-多染性赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "多染性赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/4-10_多染性赤芽球.png",
+                      "answer":  "多染性赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「多染性赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "多染性赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-4-11-多染性赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "多染性赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/4-11_多染性赤芽球.png",
+                      "answer":  "多染性赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「多染性赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "多染性赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-4-12-多染性赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "多染性赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/4-12_多染性赤芽球.png",
+                      "answer":  "多染性赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「多染性赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "多染性赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-4-2-多染性赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "多染性赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/4-2_多染性赤芽球.png",
+                      "answer":  "多染性赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「多染性赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "多染性赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-4-3-多染性赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "多染性赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/4-3_多染性赤芽球.png",
+                      "answer":  "多染性赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「多染性赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "多染性赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-4-4-多染性赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "多染性赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/4-4_多染性赤芽球.png",
+                      "answer":  "多染性赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「多染性赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "多染性赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-4-5-多染性赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "多染性赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/4-5_多染性赤芽球.png",
+                      "answer":  "多染性赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「多染性赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "多染性赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-4-6-多染性赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "多染性赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/4-6_多染性赤芽球.png",
+                      "answer":  "多染性赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「多染性赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "多染性赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-4-7-多染性赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "多染性赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/4-7_多染性赤芽球.png",
+                      "answer":  "多染性赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「多染性赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "多染性赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-4-8-多染性赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "多染性赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/4-8_多染性赤芽球.png",
+                      "answer":  "多染性赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「多染性赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "多染性赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-4-9-多染性赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "多染性赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/4-9_多染性赤芽球.png",
+                      "answer":  "多染性赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「多染性赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "多染性赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-5-1-多染性赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "多染性赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/5-1_多染性赤芽球.png",
+                      "answer":  "多染性赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「多染性赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "多染性赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-5-10-多染性赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "多染性赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/5-10_多染性赤芽球.png",
+                      "answer":  "多染性赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「多染性赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "多染性赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-5-11-多染性赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "多染性赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/5-11_多染性赤芽球.png",
+                      "answer":  "多染性赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「多染性赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "多染性赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-5-12-多染性赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "多染性赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/5-12_多染性赤芽球.png",
+                      "answer":  "多染性赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「多染性赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "多染性赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-5-2-多染性赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "多染性赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/5-2_多染性赤芽球.png",
+                      "answer":  "多染性赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「多染性赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "多染性赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-5-3-多染性赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "多染性赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/5-3_多染性赤芽球.png",
+                      "answer":  "多染性赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「多染性赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "多染性赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-5-4-多染性赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "多染性赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/5-4_多染性赤芽球.png",
+                      "answer":  "多染性赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「多染性赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "多染性赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-5-5-多染性赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "多染性赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/5-5_多染性赤芽球.png",
+                      "answer":  "多染性赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「多染性赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "多染性赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-5-6-多染性赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "多染性赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/5-6_多染性赤芽球.png",
+                      "answer":  "多染性赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「多染性赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "多染性赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-5-7-多染性赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "多染性赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/5-7_多染性赤芽球.png",
+                      "answer":  "多染性赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「多染性赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "多染性赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-5-8-多染性赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "多染性赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/5-8_多染性赤芽球.png",
+                      "answer":  "多染性赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「多染性赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "多染性赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-5-9-多染性赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "多染性赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/5-9_多染性赤芽球.png",
+                      "answer":  "多染性赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「多染性赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "多染性赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-6-1-多染性赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "多染性赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/6-1_多染性赤芽球.png",
+                      "answer":  "多染性赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「多染性赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "多染性赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-6-10-正染性赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "正染性赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/6-10_正染性赤芽球.png",
+                      "answer":  "正染性赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「正染性赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "正染性赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-6-11-正染性赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "正染性赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/6-11_正染性赤芽球.png",
+                      "answer":  "正染性赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「正染性赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "正染性赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-6-12-正染性赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "正染性赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/6-12_正染性赤芽球.png",
+                      "answer":  "正染性赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「正染性赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "正染性赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-6-2-多染性赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "多染性赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/6-2_多染性赤芽球.png",
+                      "answer":  "多染性赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「多染性赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "多染性赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-6-3-多染性赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "多染性赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/6-3_多染性赤芽球.png",
+                      "answer":  "多染性赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「多染性赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "多染性赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-6-4-多染性赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "多染性赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/6-4_多染性赤芽球.png",
+                      "answer":  "多染性赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「多染性赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "多染性赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-6-5-正染性赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "正染性赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/6-5_正染性赤芽球.png",
+                      "answer":  "正染性赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「正染性赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "正染性赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-6-6-正染性赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "正染性赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/6-6_正染性赤芽球.png",
+                      "answer":  "正染性赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「正染性赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "正染性赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-6-7-正染性赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "正染性赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/6-7_正染性赤芽球.png",
+                      "answer":  "正染性赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「正染性赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "正染性赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-6-8-正染性赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "正染性赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/6-8_正染性赤芽球.png",
+                      "answer":  "正染性赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「正染性赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "正染性赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  },
+                  {
+                      "id":  "sekigakyu-cells-png-6-9-正染性赤芽球",
+                      "group":  "赤芽球系",
+                      "title":  "正染性赤芽球 の判定",
+                      "image":  "./question_images/sekigakyu_cells_png/6-9_正染性赤芽球.png",
+                      "answer":  "正染性赤芽球",
+                      "points":  [
+                                     "画像を観察して、核の形、細胞質の色調、顆粒の有無を確認します。",
+                                     "ファイル名に対応する分類を正答として出題しています。",
+                                     "この問題の正答は「正染性赤芽球」です。"
+                                 ],
+                      "highlights":  [
+
+                                     ],
+                      "explanation":  "正染性赤芽球 として分類される画像です。核形、細胞質、顆粒の特徴を確認して、同じ系統の成熟段階と比較しましょう。"
+                  }
+              ]
+}

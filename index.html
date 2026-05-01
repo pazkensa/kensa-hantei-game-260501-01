@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>血液細胞分類トレーニング</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">検査技術学科向け</p>
+          <h1>血液細胞分類トレーニング</h1>
+        </div>
+        <div class="header-actions">
+          <div class="mode-switch" aria-label="学習モード">
+            <button id="normalModeButton" class="mode-button active" type="button">通常</button>
+            <button id="weakModeButton" class="mode-button" type="button">弱点復習</button>
+          </div>
+          <div class="mode-switch question-set-switch" aria-label="出題範囲">
+            <button class="mode-button active" type="button" data-question-set="all">全体</button>
+            <button class="mode-button" type="button" data-question-set="karyukyu">顆粒球系</button>
+            <button class="mode-button" type="button" data-question-set="sekigakyu">赤芽球系</button>
+          </div>
+          <button id="settingsButton" class="icon-text-button" type="button">設定</button>
+        </div>
+      </header>
+
+      <section id="settingsPanel" class="settings-panel" aria-label="設定" hidden>
+        <div>
+          <p class="label">設定</p>
+          <h2>出題設定</h2>
+        </div>
+        <form id="settingsForm" class="settings-form">
+          <label class="checkbox-setting">
+            <input id="timeTrialInput" type="checkbox" />
+            タイムトライアル
+          </label>
+          <label for="questionCountInput">問題数</label>
+          <input id="questionCountInput" type="number" min="1" step="1" />
+          <span id="questionCountHelp" class="settings-help">最大 0 問</span>
+          <label for="timeLimitInput">表示時間</label>
+          <input id="timeLimitInput" type="number" min="1" step="1" />
+          <span class="settings-help">秒/枚</span>
+          <button class="primary-button compact" type="submit">適用</button>
+        </form>
+      </section>
+
+      <section class="game-controls" aria-label="ゲーム操作">
+        <button id="startButton" class="primary-button compact" type="button">スタート</button>
+        <button id="resetGameButton" class="icon-text-button" type="button">リセット</button>
+      </section>
+
+      <main class="workspace">
+        <section class="viewer-panel" aria-label="細胞写真">
+          <div class="question-meta">
+            <span id="modeLabel">通常モード</span>
+            <span class="question-status">
+              <span id="timerLabel" class="timer-label">残り -- 秒</span>
+              <span id="progressLabel">1 / 1</span>
+            </span>
+          </div>
+          <div class="photo-frame">
+            <img id="cellImage" alt="分類対象の血液細胞写真" />
+            <div id="highlightLayer" class="highlight-layer" aria-hidden="true"></div>
+          </div>
+          <div class="photo-tools">
+            <button id="resetMistakesButton" type="button">間違い記録をリセット</button>
+          </div>
+        </section>
+
+        <section class="answer-panel" aria-label="回答と解説">
+          <div class="status-row">
+            <div>
+              <p class="label">分類カテゴリ</p>
+              <h2 id="categoryTitle">細胞分類</h2>
+            </div>
+            <div class="score-box">
+              <span id="scoreLabel">0 / 0</span>
+              <small>正答</small>
+            </div>
+          </div>
+
+          <div id="answerButtons" class="answer-grid"></div>
+
+          <div id="resultBox" class="result-box neutral">
+            <p id="resultTitle">回答を選んでください</p>
+            <p id="resultDetail">分類ボタンを押すと正誤判定と観察ポイントが表示されます。</p>
+          </div>
+
+          <div class="explanation">
+            <p class="label">解説</p>
+            <h3 id="caseTitle">症例名</h3>
+            <p id="explanationText"></p>
+            <ul id="pointList"></ul>
+          </div>
+
+          <div class="actions">
+            <button id="nextButton" class="primary-button" type="button">次の問題</button>
+          </div>
+        </section>
+      </main>
+
+      <aside class="review-panel" aria-label="弱点記録">
+        <div>
+          <p class="label">間違えた問題</p>
+          <h2 id="mistakeCountLabel">0件</h2>
+        </div>
+        <div id="mistakeList" class="mistake-list"></div>
+      </aside>
+    </div>
+
+    <script src="./app.js?v=20260430-8"></script>
+  </body>
+</html>
