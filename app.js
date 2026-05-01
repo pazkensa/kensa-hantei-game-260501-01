@@ -543,9 +543,6 @@ function answer(label) {
   }
 
   saveMistakes();
-  if (state.answeredCount >= state.order.length) {
-    finishGame();
-  }
   render();
 }
 
@@ -645,9 +642,6 @@ function handleTimeOut() {
   };
 
   saveMistakes();
-  if (state.answeredCount >= state.order.length) {
-    finishGame();
-  }
   render();
 }
 
