@@ -51,6 +51,7 @@ const els = {
   progressLabel: document.querySelector("#progressLabel"),
   timerLabel: document.querySelector("#timerLabel"),
   cellImage: document.querySelector("#cellImage"),
+  photoFrame: document.querySelector("#cellImage").closest(".photo-frame"),
   highlightLayer: document.querySelector("#highlightLayer"),
   resetMistakesButton: document.querySelector("#resetMistakesButton"),
   categoryTitle: document.querySelector("#categoryTitle"),
@@ -308,9 +309,11 @@ function renderAnswerButtons(item) {
     button.type = "button";
     button.textContent = label;
     button.disabled = state.answered;
-    if (state.answered && label === item.answer) button.classList.add("correct");
+    if (state.answered && label === item.answer) {
+      button.classList.add("correct", "answer-flash-correct");
+    }
     if (state.answered && label === state.selected && label !== item.answer) {
-      button.classList.add("wrong");
+      button.classList.add("wrong", "answer-flash-wrong");
     }
     button.addEventListener("click", () => answer(label));
     els.answerButtons.append(button);
@@ -329,6 +332,7 @@ function renderPointList(item) {
 
 function renderResult(item) {
   els.resultBox.className = "result-box neutral";
+  els.photoFrame.classList.remove("feedback-correct", "feedback-wrong");
   if (!state.answered) {
     els.resultTitle.textContent = "回答を選んでください";
     els.resultDetail.textContent = "分類ボタンを押すと正誤判定と観察ポイントが表示されます。";
@@ -337,6 +341,8 @@ function renderResult(item) {
 
   const isCorrect = state.selected === item.answer;
   els.resultBox.classList.add(isCorrect ? "correct" : "wrong");
+  els.resultBox.classList.add(isCorrect ? "result-pop-correct" : "result-pop-wrong");
+  els.photoFrame.classList.add(isCorrect ? "feedback-correct" : "feedback-wrong");
   els.resultTitle.textContent = isCorrect ? "正解" : state.timedOut ? "時間切れ" : "不正解";
   els.resultDetail.textContent = isCorrect
     ? `この細胞は「${item.answer}」です。`
