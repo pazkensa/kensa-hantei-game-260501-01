@@ -214,11 +214,17 @@ h1 {
 }
 
 .question-meta,
-.status-row,
 .actions {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  gap: 12px;
+}
+
+.status-row {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto auto;
+  align-items: center;
   gap: 12px;
 }
 
@@ -232,6 +238,7 @@ h1 {
 .question-status {
   display: flex;
   align-items: center;
+  justify-content: center;
   gap: 10px;
 }
 
@@ -884,7 +891,11 @@ button:disabled,
 
   .status-row {
     display: grid;
-    grid-template-columns: 1fr auto;
+    grid-template-columns: minmax(0, 1fr) auto;
+  }
+
+  .status-row > div:first-child {
+    grid-column: 1 / -1;
   }
 
   .score-box {
