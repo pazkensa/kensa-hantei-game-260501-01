@@ -568,6 +568,17 @@ function nextCase() {
   }
   startQuestionTimer();
   render();
+  scrollQuestionImageIntoView();
+}
+
+function scrollQuestionImageIntoView() {
+  requestAnimationFrame(() => {
+    els.photoFrame.scrollIntoView({
+      behavior: "smooth",
+      block: "start",
+      inline: "nearest",
+    });
+  });
 }
 
 function buildReviewComment(percent) {
