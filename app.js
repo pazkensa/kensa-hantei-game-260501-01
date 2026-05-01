@@ -7,6 +7,8 @@ const SETTINGS_VERSION = 7;
 const DEFAULT_QUESTION_COUNT = 10;
 const DEFAULT_TIME_LIMIT_SECONDS = 10;
 const DEFAULT_TIME_TRIAL_ENABLED = true;
+const SCORE_HISTORY_KEY = "bloodCellScoreHistory";
+const SCORE_HISTORY_LIMIT = 20;
 
 const state = {
   cases: [],
@@ -25,6 +27,8 @@ const state = {
   timerId: null,
   remainingSeconds: DEFAULT_TIME_LIMIT_SECONDS,
   timedOut: false,
+  scoreHistory: loadScoreHistory(),
+  scoreSaved: false,
   mistakes: loadMistakes(),
   settings: loadSettings(),
   questionSet: "all",
@@ -61,6 +65,8 @@ const els = {
   nextButton: document.querySelector("#nextButton"),
   mistakeCountLabel: document.querySelector("#mistakeCountLabel"),
   mistakeList: document.querySelector("#mistakeList"),
+  scoreHistoryList: document.querySelector("#scoreHistoryList"),
+  clearScoreHistoryButton: document.querySelector("#clearScoreHistoryButton"),
 };
 
 async function init() {
@@ -108,6 +114,11 @@ function bindEvents() {
       renderMistakes();
     }
   });
+  els.clearScoreHistoryButton.addEventListener("click", () => {
+    state.scoreHistory = [];
+    saveScoreHistory();
+    renderScoreHistory();
+  });
   els.startButton.addEventListener("click", startGame);
   els.resetGameButton.addEventListener("click", resetGame);
   els.nextButton.addEventListener("click", nextCase);
@@ -139,6 +150,7 @@ function resetGame() {
   state.questionStartedAt = 0;
   state.remainingSeconds = state.settings.timeLimitSeconds || DEFAULT_TIME_LIMIT_SECONDS;
   state.timedOut = false;
+  state.scoreSaved = false;
   state.order = [];
 
   els.normalModeButton.classList.toggle("active", state.mode === "normal");
@@ -169,6 +181,7 @@ function startGame() {
   state.totalDisplayMs = 0;
   state.questionStartedAt = 0;
   state.timedOut = false;
+  state.scoreSaved = false;
   state.remainingSeconds = state.settings.timeLimitSeconds;
   if (state.phase === "playing") startQuestionTimer();
   render();
@@ -251,6 +264,7 @@ function handleKeyboard(event) {
 
 function render() {
   renderMistakes();
+  renderScoreHistory();
   renderScore();
   renderControls();
   renderTimer();
@@ -377,6 +391,43 @@ function renderMistakes() {
     });
 }
 
+function renderScoreHistory() {
+  els.scoreHistoryList.innerHTML = "";
+
+  if (state.scoreHistory.length === 0) {
+    const empty = document.createElement("p");
+    empty.className = "empty-note";
+    empty.textContent = "まだスコア履歴はありません";
+    els.scoreHistoryList.append(empty);
+    return;
+  }
+
+  state.scoreHistory.forEach((record) => {
+    const item = document.createElement("div");
+    item.className = "history-item";
+
+    const main = document.createElement("div");
+    main.className = "history-main";
+    const score = document.createElement("strong");
+    score.textContent = `${record.correct} / ${record.total}`;
+    const percent = document.createElement("span");
+    percent.textContent = `${record.percent}%`;
+    main.append(score, percent);
+
+    const meta = document.createElement("p");
+    meta.textContent = [
+      formatHistoryDate(record.finishedAt),
+      record.questionSetLabel,
+      record.modeLabel,
+      record.timeTrialEnabled ? `制限 ${record.timeLimitSeconds} 秒` : "時間制限なし",
+      `平均 ${formatDuration(record.averageMs || 0)}`,
+    ].join(" / ");
+
+    item.append(main, meta);
+    els.scoreHistoryList.append(item);
+  });
+}
+
 function renderScore() {
   els.scoreLabel.textContent = `${state.correctCount} / ${state.answeredCount}`;
 }
@@ -438,6 +489,7 @@ function renderEmptyMode() {
 }
 
 function renderFinishedMode() {
+  recordScoreIfNeeded();
   const total = state.answeredCount;
   const percent = total === 0 ? 0 : Math.round((state.correctCount / total) * 100);
   const modeName = getModeLabel();
@@ -486,7 +538,7 @@ function answer(label) {
 
   saveMistakes();
   if (state.answeredCount >= state.order.length) {
-    state.phase = "finished";
+    finishGame();
   }
   render();
 }
@@ -494,8 +546,7 @@ function answer(label) {
 function nextCase() {
   if (state.phase !== "playing" || state.order.length === 0 || !state.answered) return;
   if (state.index >= state.order.length - 1) {
-    clearQuestionTimer();
-    state.phase = "finished";
+    finishGame();
     render();
     return;
   }
@@ -589,9 +640,46 @@ function handleTimeOut() {
 
   saveMistakes();
   if (state.answeredCount >= state.order.length) {
-    state.phase = "finished";
+    finishGame();
   }
   render();
+}
+
+function finishGame() {
+  clearQuestionTimer();
+  state.phase = "finished";
+  recordScoreIfNeeded();
+}
+
+function recordScoreIfNeeded() {
+  if (state.scoreSaved || state.phase !== "finished" || state.answeredCount === 0) return;
+
+  const total = state.answeredCount;
+  const percent = Math.round((state.correctCount / total) * 100);
+  const selectedSet = QUESTION_SETS[state.questionSet] || QUESTION_SETS.all;
+  const averageMs = state.settings.timeTrialEnabled ? state.totalDisplayMs / total : 0;
+  const modeLabel = state.mode === "weak" ? "弱点復習" : "通常";
+
+  state.scoreHistory = [
+    {
+      id: `${Date.now()}-${Math.random().toString(36).slice(2, 8)}`,
+      finishedAt: new Date().toISOString(),
+      correct: state.correctCount,
+      total,
+      percent,
+      mode: state.mode,
+      modeLabel,
+      questionSet: state.questionSet,
+      questionSetLabel: selectedSet.label,
+      timeTrialEnabled: state.settings.timeTrialEnabled,
+      timeLimitSeconds: state.settings.timeLimitSeconds,
+      totalDisplayMs: Math.round(state.totalDisplayMs),
+      averageMs: Math.round(averageMs),
+    },
+    ...state.scoreHistory,
+  ].slice(0, SCORE_HISTORY_LIMIT);
+  state.scoreSaved = true;
+  saveScoreHistory();
 }
 
 function finishQuestionTiming(forcedElapsedMs) {
@@ -707,13 +795,37 @@ function loadSettings() {
   }
 }
 
+function loadScoreHistory() {
+  try {
+    const records = JSON.parse(localStorage.getItem(SCORE_HISTORY_KEY) || "[]");
+    return Array.isArray(records) ? records : [];
+  } catch {
+    return [];
+  }
+}
+
 function saveMistakes() {
   localStorage.setItem("bloodCellMistakes", JSON.stringify(state.mistakes));
+}
+
+function saveScoreHistory() {
+  localStorage.setItem(SCORE_HISTORY_KEY, JSON.stringify(state.scoreHistory));
 }
 
 function saveSettings() {
   state.settings.version = SETTINGS_VERSION;
   localStorage.setItem("bloodCellSettings", JSON.stringify(state.settings));
+}
+
+function formatHistoryDate(value) {
+  const date = new Date(value);
+  if (Number.isNaN(date.getTime())) return "日時不明";
+  return new Intl.DateTimeFormat("ja-JP", {
+    month: "numeric",
+    day: "numeric",
+    hour: "2-digit",
+    minute: "2-digit",
+  }).format(date);
 }
 
 function shuffle(items) {

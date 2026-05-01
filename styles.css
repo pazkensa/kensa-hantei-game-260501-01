@@ -38,7 +38,8 @@ button {
 .settings-panel,
 .game-controls,
 .workspace,
-.review-panel {
+.review-panel,
+.history-panel {
   max-width: 1180px;
   margin: 0 auto;
 }
@@ -200,7 +201,8 @@ h1 {
 
 .viewer-panel,
 .answer-panel,
-.review-panel {
+.review-panel,
+.history-panel {
   border: 1px solid var(--line);
   border-radius: 8px;
   background: var(--panel);
@@ -462,7 +464,8 @@ button:disabled,
   padding: 16px;
 }
 
-.review-panel h2 {
+.review-panel h2,
+.history-panel h2 {
   margin: 0;
 }
 
@@ -487,6 +490,56 @@ button:disabled,
   color: var(--muted);
 }
 
+.history-panel {
+  margin-top: 18px;
+  padding: 16px;
+}
+
+.history-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 14px;
+  margin-bottom: 14px;
+}
+
+.history-list {
+  display: grid;
+  gap: 10px;
+}
+
+.history-item {
+  display: grid;
+  gap: 4px;
+  padding: 12px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #f8faf9;
+}
+
+.history-main {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.history-main strong {
+  font-size: 1.06rem;
+}
+
+.history-main span {
+  color: var(--accent);
+  font-weight: 800;
+}
+
+.history-item p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.88rem;
+  line-height: 1.5;
+}
+
 @media (max-width: 860px) {
   .app-shell {
     padding: 14px;
@@ -496,7 +549,8 @@ button:disabled,
   .settings-panel,
   .game-controls,
   .workspace,
-  .review-panel {
+  .review-panel,
+  .history-panel {
     max-width: none;
   }
 
@@ -504,7 +558,8 @@ button:disabled,
   .settings-panel,
   .game-controls,
   .workspace,
-  .review-panel {
+  .review-panel,
+  .history-panel {
     display: grid;
   }
 
@@ -544,5 +599,9 @@ button:disabled,
 
   .mistake-list {
     justify-content: flex-start;
+  }
+
+  .history-header {
+    display: grid;
   }
 }
