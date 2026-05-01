@@ -572,6 +572,7 @@ function nextCase() {
 }
 
 function scrollQuestionImageIntoView() {
+  if (!window.matchMedia("(max-width: 600px) and (pointer: coarse)").matches) return;
   requestAnimationFrame(() => {
     els.photoFrame.scrollIntoView({
       behavior: "smooth",
