@@ -439,6 +439,10 @@ function renderScore() {
 }
 
 function renderControls() {
+  document.body.classList.toggle(
+    "is-answer-revealed",
+    state.phase === "playing" && state.answered,
+  );
   els.startButton.disabled = state.phase === "playing" || getCurrentSourceCount() === 0;
   els.resetGameButton.disabled = state.phase === "idle";
   els.nextButton.disabled = state.phase !== "playing" || !state.answered;

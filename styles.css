@@ -376,9 +376,10 @@ h1 {
 }
 
 .answer-grid button {
-  padding: 10px;
+  padding: 10px 12px;
   text-align: left;
   font-weight: 700;
+  line-height: 1.35;
 }
 
 .answer-grid button:hover,
@@ -693,7 +694,7 @@ button:disabled,
 
 @media (max-width: 860px) {
   .app-shell {
-    padding: 14px;
+    padding: 12px;
   }
 
   .topbar,
@@ -714,8 +715,64 @@ button:disabled,
     display: grid;
   }
 
+  .topbar {
+    gap: 12px;
+    margin-bottom: 14px;
+  }
+
   .workspace {
     grid-template-columns: 1fr;
+    gap: 12px;
+  }
+
+  .viewer-panel,
+  .answer-panel,
+  .review-panel,
+  .history-panel {
+    padding: 12px;
+  }
+
+  .answer-panel {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .status-row {
+    order: 1;
+  }
+
+  .answer-grid {
+    order: 2;
+  }
+
+  .result-box {
+    order: 3;
+  }
+
+  .actions {
+    order: 4;
+  }
+
+  .explanation {
+    order: 5;
+  }
+
+  .is-answer-revealed .result-box {
+    order: 2;
+  }
+
+  .is-answer-revealed .answer-grid {
+    order: 3;
+  }
+
+  .question-meta,
+  .status-row {
+    align-items: stretch;
+  }
+
+  .question-meta {
+    display: grid;
+    gap: 8px;
   }
 
   .mode-switch {
@@ -730,6 +787,12 @@ button:disabled,
 
   .question-status {
     justify-content: space-between;
+    width: 100%;
+  }
+
+  .timer-label,
+  #progressLabel {
+    flex: 1;
   }
 
   .mode-button {
@@ -745,7 +808,46 @@ button:disabled,
   }
 
   .answer-grid {
-    grid-template-columns: 1fr;
+    gap: 9px;
+    margin: 14px 0;
+  }
+
+  .answer-grid button {
+    min-height: 54px;
+    padding: 11px 12px;
+  }
+
+  .photo-frame {
+    max-height: min(62vh, 520px);
+  }
+
+  .photo-tools button {
+    width: 100%;
+  }
+
+  .result-box {
+    min-height: 76px;
+    padding: 12px;
+  }
+
+  .explanation {
+    margin-top: 14px;
+  }
+
+  .actions {
+    margin-top: 14px;
+  }
+
+  .is-answer-revealed .actions {
+    position: sticky;
+    bottom: 10px;
+    z-index: 5;
+    padding-top: 8px;
+    background: linear-gradient(rgba(255, 255, 255, 0), var(--panel) 38%);
+  }
+
+  .primary-button {
+    min-height: 52px;
   }
 
   .mistake-list {
@@ -754,5 +856,67 @@ button:disabled,
 
   .history-header {
     display: grid;
+  }
+}
+
+@media (max-width: 480px) {
+  .app-shell {
+    padding: 10px;
+  }
+
+  h1 {
+    font-size: 1.38rem;
+  }
+
+  .header-actions,
+  .settings-form,
+  .game-controls {
+    gap: 8px;
+  }
+
+  .question-set-switch {
+    grid-template-columns: 1fr;
+  }
+
+  .question-set-switch .mode-button {
+    width: 100%;
+  }
+
+  .status-row {
+    display: grid;
+    grid-template-columns: 1fr auto;
+  }
+
+  .score-box {
+    min-width: 78px;
+    padding: 8px;
+  }
+
+  #categoryTitle {
+    font-size: 1.12rem;
+  }
+
+  .photo-frame {
+    max-height: 56vh;
+  }
+
+  .answer-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .answer-grid button {
+    min-height: 56px;
+    font-size: 1rem;
+  }
+
+  .highlight span {
+    max-width: 148px;
+    white-space: normal;
+  }
+}
+
+@media (min-width: 481px) and (max-width: 860px) {
+  .answer-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
